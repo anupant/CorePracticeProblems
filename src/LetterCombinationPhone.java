@@ -1,3 +1,4 @@
+// Time complexity is O(k^n), where k is the biggest number of letters a digit can map (k=4) and n is the length of the digit string.
 import java.util.*;
 public class LetterCombinationPhone {
 	
