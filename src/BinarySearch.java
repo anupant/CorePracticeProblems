@@ -1,4 +1,4 @@
-
+// Time complexity: O(logn)
 public class BinarySearch {
 
 	int binarySearch(int arr[], int l, int r, int x)
